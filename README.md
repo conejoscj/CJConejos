@@ -10,9 +10,11 @@
 </p>
 
 ## 🚀 About Me 
-I'm an **Industrial Engineer turned Data Analyst** with a strong background in healthcare operations and data stewardship. I specialize in transforming messy, manual data entries into automated, executive-ready Power BI dashboards. 
+Results-driven **Data Analyst** with extensive experience in multi-domain business, including healthcare, finance, sales, insurance and HR. Highly proficient in SQL, Power BI, and Advanced Excel, with a focus on translating complex datasets into actionable insights. Skilled in identifying bottlenecks through data-driven analysis and delivering scalable solutions in Agile environments to achieve long-term business impact. 
 
-My focus is on **Process Improvement** and **Data Governance**—ensuring that data is accurate at the source so that business leaders can trust the metrics they use to make decisions.
+
+
+
 
 ### 🏆 [Check Out My Full Portfolio](https://datascienceportfol.io/your-username)
       
